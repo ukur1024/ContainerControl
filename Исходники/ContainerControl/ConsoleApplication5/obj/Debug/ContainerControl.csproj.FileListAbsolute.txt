@@ -1,0 +1,8 @@
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\obj\Debug\ContainerControl.csprojResolveAssemblyReference.cache
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\obj\Debug\ContainerControl.ContainerControl.resources
+C:\Users\A.E.Plaksin\Desktop\Диплом\ContainerControl\Исходники\ContainerControl\ConsoleApplication5\obj\Debug\ContainerControl.csproj.GenerateResource.Cache

@@ -1,0 +1,1 @@
+docker run -a stdin -a stdout -i -t pythoncode

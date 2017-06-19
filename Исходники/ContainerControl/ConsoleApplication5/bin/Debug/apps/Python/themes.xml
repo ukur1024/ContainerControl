@@ -1,0 +1,781 @@
+<themes>
+    <theme id='1' name='Introduction'>
+        <minimal_tags>libraries,design,extensibility,standard</minimal_tags>
+        
+        <exercise id='1' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>functions,libraries,design</tags>
+        </exercise>
+        
+        <exercise id='2' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>tricks,structures,design</tags>
+        </exercise>
+        
+        <exercise id='3' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>arrays,pointers,functions,preprocessor,compile</tags>
+        </exercise>
+        
+        <exercise id='4' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>functions,preprocessor,tricks</tags>
+        </exercise>
+        
+        <exercise id='5' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>preprocessor,tricks</tags>
+        </exercise>
+        
+        <exercise id='6' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,design</tags>
+        </exercise>
+        
+        <exercise id='7' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>design,extensibility</tags>
+        </exercise>
+        
+        <exercise id='8' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>extensibility,preprocessor,standard</tags>
+        </exercise>
+        
+        <exercise id='9' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,extensibility</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='2' name='Diagnostics'>
+        <minimal_tags>diagnostics,standard</minimal_tags>
+        
+        <exercise id='10' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation,diagnostics</tags>
+        </exercise>
+        
+        <exercise id='11' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation,diagnostics</tags>
+        </exercise>
+        
+        <exercise id='12' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation,extensibility,diagnostics</tags>
+        </exercise>
+        
+        <exercise id='13' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation,extensibility,diagnostics</tags>
+        </exercise>
+        
+        <exercise id='14' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>diagnostics,signals</tags>
+        </exercise>
+        
+        <exercise id='15' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>diagnostics,signals,nonlocal_jumps</tags>
+        </exercise>
+        
+        <exercise id='16' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>diagnostics,debugging</tags>
+        </exercise>
+    </theme>
+
+    <theme id='3' name='Character handling'>
+        <minimal_tags>strings,locale,standard</minimal_tags>
+        
+        <exercise id='17' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>strings</tags>
+        </exercise>
+        
+        <exercise id='18' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation</tags>
+        </exercise>
+        
+        <exercise id='19' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>strings,standard</tags>
+        </exercise>
+        
+        <exercise id='20' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>strings</tags>
+        </exercise>
+        
+        <exercise id='21' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>strings,locale</tags>
+        </exercise>
+        
+        <exercise id='22' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>strings,locale</tags>
+        </exercise>
+        
+        <exercise id='23' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,extensibility,strings</tags>
+        </exercise>
+        
+        <exercise id='24' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>strings,multithreading</tags>
+        </exercise>
+        
+        <exercise id='25' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>strings,extensibility</tags>
+        </exercise>
+        
+        
+    </theme>
+
+    <theme id='4' name='Errors'>
+        <minimal_tags>diagnostics,implementation,standard</minimal_tags>
+        
+        <exercise id='26' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>diagnostics,implementation</tags>
+        </exercise>
+        
+        <exercise id='27' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>diagnostics,implementation</tags>
+        </exercise>
+        
+        <exercise id='28' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>extensibility,diagnostics</tags>
+        </exercise>
+        
+        <exercise id='29' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>diagnostics,implementation</tags>
+        </exercise>
+        
+        <exercise id='30' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>diagnostics,floating_point_numbers</tags>
+        </exercise>
+        
+        <exercise id='31' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,extensibility,diagnostics</tags>
+        </exercise>
+        
+        <exercise id='32' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,extensibility,diagnostics</tags>
+        </exercise>
+    </theme>
+
+    <theme id='5' name='Characteristics of floating types'>
+        <minimal_tags>floating_point_numbers,standard,implementation</minimal_tags>
+        
+        <exercise id='33' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,implementation</tags>
+        </exercise>
+        
+        <exercise id='34' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,implementation,standart</tags>
+        </exercise>
+        
+        <exercise id='35' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,standard</tags>
+        </exercise>
+        
+        <exercise id='36' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='37' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,preprocessor</tags>
+        </exercise>
+        
+        <exercise id='38' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,implementation,tricks</tags>
+        </exercise>
+        
+        <exercise id='39' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,implementation,tricks</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='6' name='Sizes of integer types'>
+        <minimal_tags>standard,lowlevel,implementation</minimal_tags>
+        
+        <exercise id='40' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation</tags>
+        </exercise>
+        
+        <exercise id='41' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation,standart</tags>
+        </exercise>
+        
+        <exercise id='42' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,standard</tags>
+        </exercise>
+        
+        <exercise id='43' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='44' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,preprocessor</tags>
+        </exercise>
+        
+        <exercise id='45' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation,tricks</tags>
+        </exercise>
+        
+        <exercise id='46' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation,tricks</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='7' name='Localization'>       
+        <minimal_tags>locale,standard,implementation</minimal_tags>
+        
+        <exercise id='47' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,strings</tags>
+        </exercise>
+        
+        <exercise id='48' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='49' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,implementation</tags>
+        </exercise>
+        
+        <exercise id='50' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,floating_point_numbers,standard</tags>
+        </exercise>
+        
+        <exercise id='51' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,standard</tags>
+        </exercise>
+        
+        <exercise id='52' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,implementation</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='8' name='Mathematics'>       
+        <minimal_tags>floating_point_numbers,implementation,compile,standard</minimal_tags>
+        
+        <exercise id='53' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,implementation</tags>
+        </exercise>
+        
+        <exercise id='54' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='55' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='56' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation</tags>
+        </exercise>
+        
+        <exercise id='57' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,implementation</tags>
+        </exercise>
+        
+        <exercise id='58' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>floating_point_numbers,implementation</tags>
+        </exercise>
+        
+        <exercise id='59' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='60' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>compile,extensibility</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='9' name='Nonlocal jumps'>       
+        <minimal_tags>nonlocal_jumps,lowlevel,standard</minimal_tags>
+        
+        <exercise id='61' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation,nonlocal_jumps</tags>
+        </exercise>
+        
+        <exercise id='62' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation,nonlocal_jumps</tags>
+        </exercise>
+        
+        <exercise id='63' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation,nonlocal_jumps,debugging</tags>
+        </exercise>
+        
+        <exercise id='64' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,nonlocal_jumps,standard</tags>
+        </exercise>
+        
+        <exercise id='65' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation,nonlocal_jumps</tags>
+        </exercise>
+        
+        <exercise id='66' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation,nonlocal_jumps,compile</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='10' name='Signal handling'>       
+        <minimal_tags>signals,compile,implementation,lowlevel,standard</minimal_tags>
+        
+        <exercise id='67' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>signal,implementation,compile</tags>
+        </exercise>
+        
+        <exercise id='68' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>signal,implementation,compile,debugging</tags>
+        </exercise>
+        
+        <exercise id='69' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>signal,standard</tags>
+        </exercise>
+        
+        <exercise id='70' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>signal,implementation,lowlevel,compile</tags>
+        </exercise>
+        
+        <exercise id='71' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>signal,implementation,lowlevel</tags>
+        </exercise>
+        
+        <exercise id='72' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>signal,standard,debugging</tags>
+        </exercise>
+        
+        <exercise id='73' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>signal</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='11' name='Variable arguments'>       
+        <minimal_tags>varargs,implementation,standard</minimal_tags>
+        
+        <exercise id='74' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>varargs,implementation</tags>
+        </exercise>
+        
+        <exercise id='75' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>varargs,implementation,compile</tags>
+        </exercise>
+        
+        <exercise id='76' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>varargs,implementation,standard</tags>
+        </exercise>
+        
+        <exercise id='77' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>varargs,strings</tags>
+        </exercise>
+        
+        <exercise id='78' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>varargs,standard</tags>
+        </exercise>
+        
+        <exercise id='79' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>varargs,implementation</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='12' name='Common definitions'>       
+        <minimal_tags>standard,extensibility,design</minimal_tags>
+        
+        <exercise id='80' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation</tags>
+        </exercise>
+        
+        <exercise id='81' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='82' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='83' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>extensibility</tags>
+        </exercise>
+        
+        <exercise id='84' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation,extensibility,design</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='13' name='Input and output'>       
+        <minimal_tags>standard,strings,lowlevel,implementation</minimal_tags>
+        
+        <exercise id='85' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,lowlevel</tags>
+        </exercise>
+        
+        <exercise id='86' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,implementation</tags>
+        </exercise>
+        
+        <exercise id='87' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel</tags>
+        </exercise>
+        
+        <exercise id='88' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation,lowlevel</tags>
+        </exercise>
+        
+        <exercise id='89' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,lowlevel</tags>
+        </exercise>
+        
+        <exercise id='90' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,implementation</tags>
+        </exercise>
+        
+        <exercise id='91' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel</tags>
+        </exercise>
+        
+        <exercise id='92' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,lowlevel</tags>
+        </exercise>
+        
+        <exercise id='93' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>extensibility,design</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='14' name='General utilities'>       
+        <minimal_tags>standard,string,lowlevel,compile</minimal_tags>
+        
+        <exercise id='94' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,locale</tags>
+        </exercise>
+        
+        <exercise id='95' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,locale</tags>
+        </exercise>
+        
+        <exercise id='96' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,locale</tags>
+        </exercise>
+        
+        <exercise id='97' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>extensibility,lowlevel,standard</tags>
+        </exercise>
+        
+        <exercise id='98' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel</tags>
+        </exercise>
+        
+        <exercise id='99' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,design</tags>
+        </exercise>
+        
+        <exercise id='100' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='101' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,string,implementation</tags>
+        </exercise>
+        
+        <exercise id='102' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>compile</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='15' name='String handling'>       
+        <minimal_tags>standard,string,locale,implementation,debugging</minimal_tags>
+        
+        <exercise id='103' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,locale</tags>
+        </exercise>
+        
+        <exercise id='104' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,locale</tags>
+        </exercise>
+        
+        <exercise id='105' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,locale,tricks</tags>
+        </exercise>
+        
+        <exercise id='106' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,standard</tags>
+        </exercise>
+        
+        <exercise id='107' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,implementation,standard</tags>
+        </exercise>
+        
+        <exercise id='108' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,diagnostics,debugging</tags>
+        </exercise>
+        
+        <exercise id='109' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,lowlevel,implementation,debugging</tags>
+        </exercise>
+        
+        <exercise id='110' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>string,lowlevel,implementation,debugging,compile</tags>
+        </exercise>
+    </theme>
+    
+    <theme id='16' name='Date and Time'>       
+        <minimal_tags>standard,locale,lowlevel,implementation</minimal_tags>
+        
+        <exercise id='111' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale</tags>
+        </exercise>
+        
+        <exercise id='112' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,implementation</tags>
+        </exercise>
+        
+        <exercise id='113' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel</tags>
+        </exercise>
+        
+        <exercise id='114' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>standard,implementation</tags>
+        </exercise>
+        
+        <exercise id='115' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='116' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>lowlevel,standard,design</tags>
+        </exercise>
+        
+        <exercise id='117' difficulty='1' reward='25'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>implementation</tags>
+        </exercise>
+        
+        <exercise id='118' difficulty='2' reward='50'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,lowlevel,design</tags>
+        </exercise>
+        
+        <exercise id='119' difficulty='3' reward='75'>
+            <text>Exercise text</text>
+            <answer>Possible answer</answer>
+            <tags>locale,standard</tags>
+        </exercise>
+    </theme>
+</themes>
